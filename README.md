@@ -1,4 +1,6 @@
-### Hi there 👋 _... don’t pity the wolf I didn’t feed._
+### Hi there 👋 
+
+_... don’t pity the wolf I didn’t feed._
 
 About me:
 
@@ -25,7 +27,8 @@ About me:
 💌 Favorite part of my work process:
 Creating something from nothing. 
 
-My working process: 
+### My working process: 
+
 At the beginning:
 
 ![Directing Everyone](https://media.giphy.com/media/xUOxeZhmfnLJkdcqc0/giphy.gif)
